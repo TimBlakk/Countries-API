@@ -1,0 +1,15 @@
+const additionalCountryInfo = {
+    "Canada": {
+        funFact: "Canada has the longest coastline of any country in the world.",
+        historicalFact: "Canada became a self-governing dominion in 1867."
+    },
+    "United States": {
+        funFact: "The United States is the third largest country by land area and population.",
+        historicalFact: "The United States declared independence from Great Britain on July 4, 1776."
+    },
+    "Mexico": {
+        funFact: "Mexico is home to the world's largest pyramid, the Great Pyramid of Cholula.",
+        historicalFact: "Mexico declared independence from Spain on September 16, 1810."
+    },
+    // Add more countries here
+};
